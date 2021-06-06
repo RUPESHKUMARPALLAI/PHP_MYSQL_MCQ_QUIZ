@@ -1,9 +1,6 @@
 # Online-Quiz-System
-Today Online Quiz System has become a fast growing examination method because of its speed and accuracy. It is also needed less manpower to execute the examination. Almost all organizations now-a-days, are conducting their objective exams by online examination or quiz system, it saves students time in examinations. Organizations can also easily check the performance of the student that they give in an examination. As a result of this, organizations are releasing results in less time. It also helps the environment by saving paper. According to today’s requirement, online examination project in PHP is very useful to learn it.
+It is a Online quiz system(MCQ) to save time and paper. Students can give quiz and know their performance. Instututes can also use it for taking tests. It is based on PHP and MY_SQL. Sql and other files are provided with the code. Login/Register page is there. Quiz dashboard has history, ranking and quizes for different subjects.
 
 
 
-Attention 
-----------------------------
-exam.rar file contains all the css files, plugins and images.
-----------------------------
+
